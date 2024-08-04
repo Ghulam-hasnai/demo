@@ -1,4 +1,4 @@
 # demo
 this is a demo repository
 <br>
-Author - Ghulam hasnain
+Author - Ghulam hasnain Jumani
